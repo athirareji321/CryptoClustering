@@ -4,7 +4,7 @@
 
 ### Steps to follow 
 #### 1. Prepare the Data
-![]()
+![](https://github.com/athirareji321/CryptoClustering/blob/main/README_Images/1.png)
 #### 2. Find the Best Value for k Using the Original Scaled DataFrame
 ![]()
 #### 3. Cluster Cryptocurrencies with K-means Using the Original Scaled Data
